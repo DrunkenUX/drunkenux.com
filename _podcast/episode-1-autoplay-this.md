@@ -30,7 +30,7 @@ post_date: 2018-01-07 09:00:35
 <!-- /wp:heading -->
 
 <!-- wp:html -->
-<div id="transcript">
+<div id="transcript-1">
 	<div class="chat michael" title="Michael Fienen">
 		<p>Good afternoon, good morning, or good evening, whatever time you’re listening to us. This is the Drunken UX podcast. The Drunken UX podcast is brought to you by Gas Mark 8 at <a href="https://gasmark8.com/">gasmark8.com</a>. I am your host Michael Fienen. I am a web developer, analytics, and something else guy – I don’t know what – but for now let’s call me a host. And I have with me on the other side of this microphone-</p>
 	</div>
