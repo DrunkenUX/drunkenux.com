@@ -7,6 +7,7 @@ layout: podcast
 permalink: https://drunkenux.com/podcast/dux27/
 published: true
 post_date: 2019-01-07 06:00:05
+transcript_text: false
 ---
 <!-- wp:paragraph -->
 <p>Welcome to Season 2 of <em>The Drunken UX Podcast</em>! We're thrilled to have you back, and we kick the season off by having a discussion about the value in learning jQuery today, and what the future looks like for the library in your development.</p>
